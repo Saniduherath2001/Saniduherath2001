@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm sanidu</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate fullstact developer from Sri lanka</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **ML**
 
-- 📫 How to reach me **saniduherath200@gmil.com**
+- 📫 How to reach me **saniduherath2001@gmil.com**
 
 - ⚡ Fun fact **sanuu**
 
