@@ -47,8 +47,8 @@ A passionate Full-Stack Developer & AI Enthusiast from Sri Lanka. I love buildin
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saniduherath2001&theme=radial" alt="Sanidu's GitHub Stats" />
+  <img src="https://ghchart.rshah.org/Saniduherath2001" alt="Sanidu's GitHub Chart" />
 </p>
