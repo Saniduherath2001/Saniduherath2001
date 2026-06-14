@@ -14,7 +14,7 @@ A passionate Full-Stack Developer & AI Enthusiast from Sri Lanka. I love buildin
 - **Description:** A full-stack healthcare platform that uses machine learning to detect skin diseases in dogs and includes an integrated online pharmacy for purchasing pet medicine.
 - **Tech Stack:** Python (ML/Image Processing), Node.js, Express, React, MongoDB
 
-######## 🎙️ SANNY: AI Voice Assistant & Robotics Control
+#### 🎙️ SANNY: AI Voice Assistant & Robotics Control
 - **Description:** An advanced voice-controlled AI assistant that bridges software and hardware. It answers queries using AI, automates OS tasks (opening apps, managing volume), and controls a physical Robotic Arm in real-time.
 - **Tech Stack:** JavaScript, Node.js, Arduino, C++, Web Speech API
 
